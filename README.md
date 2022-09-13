@@ -38,3 +38,5 @@ This is a list of web3 job portals
 | [Freeflow (Freelance)](https://www.freeflow.dev/)|NA|
 | [Lost-in-code](https://lost-in-code.com)|NA|
 | [Glumos](https://glumos.com/)|NA|
+
+###### Note: Monthly visits are scrapped from similarweb.com on 13th-sept-2022
