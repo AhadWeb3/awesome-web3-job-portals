@@ -4,25 +4,23 @@ This is a list of web3 job portals
 #### Web3 Centric Job Portals
 | Portal | Monthly visits |
 | :---     |       ---: |
-|- [blockchain headhunter](https://blockchainheadhunter.com/jobs)||
-|- [Superteam DAO](https://earn.superteam.fun/)|55k| 
-|- [web3 career](https://web3.career) ||
-|- [crypto naukri](https://www.cryptonaukri.com/)||
-|- [remote3](https://remote3.co/web3-jobs)||
-|- [web3 career](https://web3.career/)||
-|- [gitcoin](https://gitcoin.co/)||
-|- [use web3](https://www.useweb3.xyz/jobs/t/smart-contract)||
-|- [crypto jobs](https://crypto.jobs)||
-|- [crypto currency jobs](https://cryptocurrencyjobs.co)||
-|- [crypto careers dev](https://www.cryptocareers.dev/)||
-|- [ecosystem jobs polygon technology](https://ecosystemjobs.polygon.technology/jobs)||
-|- [crypto jobs list](https://cryptojobslist.com)||
-|- [defi jobs](https://defi.jobs)||
-|- [web-3 pallet](https://web-3.pallet.xyz)||
-|- [use web3 ](https://useweb3.xyz/jobs)||
-|- [careers crypto jobs daily](https://careers.cryptojobsdaily.com)||
-|- [web3 board](https://web3board.io)||
-|- [pomp crypto jobs](https://pompcryptojobs.coms.co)||
+| [ecosystem jobs polygon technology](https://ecosystemjobs.polygon.technology/jobs)|1.2M|
+| [web3 career](https://web3.career) |680K|
+| [crypto currency jobs](https://cryptocurrencyjobs.co)|552K|
+| [gitcoin](https://gitcoin.co/)|460K|
+| [web-3 pallet](https://web-3.pallet.xyz)|415K|
+| [crypto jobs list](https://cryptojobslist.com)|234K|
+| [crypto jobs](https://crypto.jobs)|128K|
+| [use web3](https://www.useweb3.xyz/jobs/t/smart-contract)|75K|
+| [remote3](https://remote3.co/web3-jobs)|69K|
+| [Superteam DAO](https://earn.superteam.fun/)|55K| 
+| [pomp crypto jobs](https://pompcryptojobs.com/)|41K|
+| [blockchain headhunter](https://blockchainheadhunter.com/jobs)|NA|
+| [crypto naukri](https://www.cryptonaukri.com/)|NA|
+| [crypto careers dev](https://www.cryptocareers.dev/)|NA|
+| [defi jobs](https://defi.jobs)|NA|
+| [careers crypto jobs daily](https://cryptojobsdaily.com/)|NA|
+| [web3 board](https://web3board.io)|NA|
 #### Job Portals
 
 - [Angel List](https://angel.co/jobs)
