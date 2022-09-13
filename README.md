@@ -2,7 +2,8 @@
 This is a list of web3 job portals
 
 #### Web3 Centric Job Portals
-| Portal | Monthly visits ||
+| Portal | Monthly visits |
+| :---     |       ---: |
 |- [blockchain headhunter](https://blockchainheadhunter.com/jobs)||
 |- [Superteam DAO](https://earn.superteam.fun/)|55k| 
 |- [web3 career](https://web3.career) ||
