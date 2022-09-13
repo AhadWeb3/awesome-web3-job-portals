@@ -2,7 +2,7 @@
 This is a list of web3 job portals
 
 #### Web3 Centric Job Portals
-- [blockchain headhunter](https://blockchainheadhunter.com/jobs)
+- [blockchain headhunter](https://blockchainheadhunter.com/jobs) ##### 55k
 - [Superteam DAO](https://earn.superteam.fun/)
 - [jobs lever](https://jobs.lever.co/alchemy)
 - [web3 career](https://web3.career)
@@ -24,7 +24,7 @@ This is a list of web3 job portals
 - [pomp crypto jobs](https://pompcryptojobs.coms.co)
 #### Job Portals
 
-- [angel](https://angel.co/jobs)
+- [Angel List](https://angel.co/jobs)
 - [Flex Jobs](https://www.flexjobs.com/)
 - [startup and vc](https://www.startupandvc.com/venture-capital-jobs)
 - [vcplatform](https://www.vcplatform.com/jobs)
