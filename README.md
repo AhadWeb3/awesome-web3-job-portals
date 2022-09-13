@@ -1,5 +1,6 @@
 # Awesome Web3 Job Portals
 This is a list of web3 job portals
+##### Feel free to add new links
 
 #### Web3 Centric Job Portals
 | Portal | Monthly visits |
