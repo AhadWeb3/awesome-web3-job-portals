@@ -41,3 +41,6 @@ This is a list of web3 job portals
 | [Glumos](https://glumos.com/)|NA|
 
 ###### Note: Monthly visits are scrapped from similarweb.com on 13th-sept-2022
+<a href="">
+    <img src="https://komarev.com/ghpvc/?username=awesome-web3-job-portals">
+</a>
