@@ -17,6 +17,7 @@ This is a list of web3 job portals
 | [Remote3](https://remote3.co/web3-jobs)|69K|
 | [Superteam DAO](https://earn.superteam.fun/)|55K| 
 | [Pomp crypto jobs](https://pompcryptojobs.com/)|41K|
+| [Techtree](https://techtree.dev/bounties)|18K(Total Visits)|
 | [Blockchain headhunter](https://blockchainheadhunter.com/jobs)|NA|
 | [Crypto naukri](https://www.cryptonaukri.com/)|NA|
 | [Crypto careers dev](https://www.cryptocareers.dev/)|NA|
@@ -39,6 +40,12 @@ This is a list of web3 job portals
 | [Freeflow (Freelance)](https://www.freeflow.dev/)|NA|
 | [Lost-in-code](https://lost-in-code.com)|NA|
 | [Glumos](https://glumos.com/)|NA|
+
+#### Bounties
+| Portal | Monthly visits |
+| :---     |       ---: |
+| [Techtree](https://techtree.dev/bounties)|18K(Total Visits)|
+
 
 ###### Note: Monthly visits are scrapped from similarweb.com on 13th-sept-2022
 <a href="">
