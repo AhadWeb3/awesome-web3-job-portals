@@ -13,6 +13,7 @@ This is a list of web3 job portals
 | [build space ](https://buildspace.so)|293K|
 | [Crypto jobs list](https://cryptojobslist.com)|234K|
 | [Crypto jobs](https://crypto.jobs)|128K|
+| [Brain Trust](app.usebraintrust.com)|118K|
 | [Use web3](https://www.useweb3.xyz/jobs/t/smart-contract)|75K|
 | [Remote3](https://remote3.co/web3-jobs)|69K|
 | [Superteam DAO](https://earn.superteam.fun/)|55K| 
