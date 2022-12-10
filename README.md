@@ -42,6 +42,59 @@ This is a list of web3 job portals
 | [Lost-in-code](https://lost-in-code.com)|NA|
 | [Glumos](https://glumos.com/)|NA|
 
+#### Remote Job Portals
+| Company | Funds Secured |
+| :---     |       ---: |
+| [ChainSecurity](https://) | to be added |
+| [MythX](https://) | to be added |
+| [OpenZeppelin](https://) | to be added |
+| [Quantstamp](https://) | to be added |
+| [Certora](https://) | to be added |
+| [Hosho](https://) | to be added |
+| [ConsenSys Diligence](https://) | to be added |
+| [Trail of Bits](https://) | to be added |
+| [WhiteHat Security](https://) | to be added |
+| [Red4Sec](https://) | to be added |
+| [SecureData](https://) | to be added |
+| [SmartDec](https://) | to be added |
+| [CertiK](https://) | to be added |
+| [PumaScan](https://) | to be added |
+| [BlockShield](https://) | to be added |
+| [Solidified](https://) | to be added |
+| [Sate Development](https://) | to be added |
+| [Blockwise](https://) | to be added |
+| [QuillAudits](https://) | to be added |
+| [New Alchemy](https://) | to be added |
+| [SmartCheck](https://) | to be added |
+| [Nomic Labs](https://) | to be added |
+| [Security Innovation](https://) | to be added |
+| [EtherCasts](https://) | to be added |
+| [X41 D-SEC GmbH](https://) | to be added |
+| [AnChain.AI](https://) | to be added |
+| [Quantstamp Protocol](https://) | to be added |
+| [MyCryptoAudit](https://) | to be added |
+| [Hacken](https://) | to be added |
+| [BlockSecurity](https://) | to be added |
+| [Tezos Commons Foundation](https://) | to be added |
+| [Trail of Bits Canada](https://) | to be added |
+| [Runtime Verification](https://) | to be added |
+| [Diligence](https://) | to be added |
+| [Zeppelin Solutions](https://) | to be added |
+| [CryptoAudit](https://) | to be added |
+| [Peckshield](https://) | to be added |
+| [Security.Hound](https://) | to be added |
+| [Trail of Bits Europe](https://) | to be added |
+| [Blockade](https://) | to be added |
+| [CipherBlade](https://) | to be added |
+| [Peckshield](https://) | to be added |
+| [Mythril](https://) | to be added |
+| [ChainSecurity](https://) | to be added |
+| [Securify](https://) | to be added |
+| [Cryptonomic](https://) | to be added |
+| [Certik](https://) | to be added |
+| [The Ethereum Foundation](https://) | to be added |
+| [SABRE](https://) | to be added |
+
 #### Bounties
 | Portal | Monthly visits |
 | :---     |       ---: |
