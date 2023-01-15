@@ -42,48 +42,36 @@ This is a list of web3 job portals
 | [Lost-in-code](https://lost-in-code.com)|NA|
 | [Glumos](https://glumos.com/)|NA|
 
-#### Remote Job Portals
+#### Web3 Smart Contract Auditing Companies
 | Company | Funds Secured |
 | :---     |       ---: |
 | [ChainSecurity](https://) | to be added |
 | [MythX](https://) | to be added |
-| [OpenZeppelin](https://) | to be added |
-| [Quantstamp](https://) | to be added |
-| [Certora](https://) | to be added |
-| [Hosho](https://) | to be added |
-| [ConsenSys Diligence](https://) | to be added |
-| [Trail of Bits](https://) | to be added |
-| [WhiteHat Security](https://) | to be added |
-| [Red4Sec](https://) | to be added |
-| [SecureData](https://) | to be added |
-| [SmartDec](https://) | to be added |
-| [CertiK](https://) | to be added |
-| [PumaScan](https://) | to be added |
-| [BlockShield](https://) | to be added |
-| [Solidified](https://) | to be added |
-| [Sate Development](https://) | to be added |
-| [Blockwise](https://) | to be added |
-| [QuillAudits](https://) | to be added |
-| [New Alchemy](https://) | to be added |
-| [SmartCheck](https://) | to be added |
-| [Nomic Labs](https://) | to be added |
-| [Security Innovation](https://) | to be added |
-| [EtherCasts](https://) | to be added |
-| [X41 D-SEC GmbH](https://) | to be added |
-| [AnChain.AI](https://) | to be added |
-| [Quantstamp Protocol](https://) | to be added |
-| [MyCryptoAudit](https://) | to be added |
-| [Hacken](https://) | to be added |
-| [BlockSecurity](https://) | to be added |
-| [Tezos Commons Foundation](https://) | to be added |
-| [Trail of Bits Canada](https://) | to be added |
+| [OpenZeppelin](https://www.openzeppelin.com/jobs/opening) | to be added |
+| [Quantstamp](https://jobs.ashbyhq.com/quantstamp) | to be added |
+| [Certora](https://www.certora.com/#careers) | to be added |
+| [ConsenSys Diligence](https://consensys.net/open-roles/?discipline=32525) | to be added |
+| [Trail of Bits](https://www.trailofbits.com/careers/) | to be added |
+| [SecureData](https://www.securedata.com/company/careers) | to be added |
+| [SmartDec](https://smartdec.net/) | to be added |
+| [CertiK](https://www.certik.com/company/careers) | to be added |
+| [PumaScan](https://pumasecurity.io/career/) | to be added |
+| [BlockShield](https://blockshield.finance/) | to be added |
+| [Solidified](https://solidified.io/) | to be added |
+| [Sate Development](https://www.satedev.com/careers/) | to be added |
+| [QuillAudits](https://audits.quillhash.com/careers) | to be added |
+| [New Alchemy](https://apply.workable.com/new-alchemy/) | to be added |
+| [Nomic Labs](https://www.notion.so/Nomic-Foundation-jobs-991b37c547554f75b89a95f437fd5056) | to be added |
+| [Security Innovation](https://www.securityinnovation.com/about/careers/) | to be added |
+| [X41 D-SEC GmbH](https://x41-dsec.de/jobs/) | to be added |
+| [AnChain.AI](https://www.linkedin.com/company/anchainai/jobs/) | to be added |
+| [Hacken](https://hacken.peopleforce.io/careers) | to be added |
 | [Runtime Verification](https://) | to be added |
 | [Diligence](https://) | to be added |
 | [Zeppelin Solutions](https://) | to be added |
 | [CryptoAudit](https://) | to be added |
 | [Peckshield](https://) | to be added |
 | [Security.Hound](https://) | to be added |
-| [Trail of Bits Europe](https://) | to be added |
 | [Blockade](https://) | to be added |
 | [CipherBlade](https://) | to be added |
 | [Peckshield](https://) | to be added |
